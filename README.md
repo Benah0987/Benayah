@@ -24,7 +24,7 @@ Below are some of the languages and tools I frequently work with:
 React, 
 JavaScript,
 Python,
-Ruby
+Ruby on rails
 
 ...
 
